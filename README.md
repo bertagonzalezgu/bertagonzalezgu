@@ -11,10 +11,10 @@ Diseñadora visual en transición hacia el diseño digital. Vengo del diseño de
 
 **Skills**
 
-`Figma` `Framer` `HTML` `CSS` `Tailwind` `JavaScript` `TypeScript` `React` `Git` `GitHub`
+`Figma` `HTML` `CSS` `Tailwind` `JavaScript` `TypeScript` `React` `Git` `GitHub`
 
 ---
 
 📫 **Contacto**
 
-[Portfolio](https://TU-PORTFOLIO-AQUI.com) · [LinkedIn](https://linkedin.com/in/TU-USUARIO) · berta.gonzalez99@gmail.com
+[Portfolio](https://bertagonzalez-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/berta-gonzalez-guell/) · berta.gonzalez99@gmail.com
