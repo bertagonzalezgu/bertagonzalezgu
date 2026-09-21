@@ -17,4 +17,4 @@ Diseñadora visual en transición hacia el diseño digital. Vengo del diseño de
 
 📫 **Contacto**
 
-[Portfolio](https://bertagonzalez-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/berta-gonzalez-guell/) · berta.gonzalez99@gmail.com
+[Portfolio](https://berta-gonzalez-portfolio.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/berta-gonzalez-guell/) · berta.gonzalez99@gmail.com
