@@ -45,10 +45,6 @@ Vengo del diseño de espacios (interiorismo y experiencias efímeras) y ahora co
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-## Actividad
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bertagonzalezgu&layout=compact&hide_border=true" alt="Lenguajes más usados en mis repositorios" />
-
 ---
 
 <div align="center">
